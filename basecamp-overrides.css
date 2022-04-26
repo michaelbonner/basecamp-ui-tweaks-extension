@@ -1,0 +1,14 @@
+.todos--show-ancestry .todos.completed {
+  opacity: 0.2;
+}
+
+.todos--show-ancestry .todos.completed .checkbox {
+  padding-left: 1.4em !important;
+  margin-left: 0.2em;
+}
+
+.todos--show-ancestry .todos.completed .checkbox__button {
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+}
