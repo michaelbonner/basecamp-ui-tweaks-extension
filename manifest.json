@@ -1,7 +1,7 @@
 {
   "name": "Basecamp UI Tweaks",
   "description": "Some of Basecamp's UI is a little annoying, this is some of the tweaks I've made.",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 3,
   "icons": {
     "16": "images/icon/16.png",
